@@ -1,0 +1,62 @@
+ISim log file
+Running: C:\Users\AAST\Downloads\DE\MohamedNasserMohamedAlmaghraby_19102722_2021\MIPS_SINGLE_CYCLE_PROCESSOR_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MIPS_SINGLE_CYCLE_PROCESSOR_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Adder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Adder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# isim force add /mips_single_cycle_processor/clk 1 -radix bin -value 0 -radix bin -time 5 us -repeat 10 us -cancel 100 us
+# run all
+ERROR: Index 28 out of bound 0 to 27. 
+ERROR: In process INSTRUCTION_MEMORY.vhd:61 
+ 
+INFO: Simulator is stopped.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/INSTRUCTION/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Reegister_File/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /mips_single_cycle_processor/Adder/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 0 ps, Instance /mips_single_cycle_processor/BRANCH_ALUU/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# isim force add /mips_single_cycle_processor/clk 1 -radix bin -value 0 -radix bin -time 5 us -repeat 10 us -cancel 100 us
+# run all
+ERROR: Index 28 out of bound 0 to 27. 
+ERROR: In process INSTRUCTION_MEMORY.vhd:61 
+ 
+INFO: Simulator is stopped.

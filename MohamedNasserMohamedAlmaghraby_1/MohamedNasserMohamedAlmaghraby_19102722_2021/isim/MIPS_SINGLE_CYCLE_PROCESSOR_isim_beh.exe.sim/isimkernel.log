@@ -1,0 +1,30 @@
+Command line:
+   MIPS_SINGLE_CYCLE_PROCESSOR_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50385
+
+Thu Jun 02 05:32:57 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5154 Meg
+
+ Total Signals          : 107
+ Total Nets             : 2098
+ Total Signal Drivers   : 33
+ Total Blocks           : 23
+ Total Primitive Blocks : 22
+ Total Processes        : 22
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 2599
+In process INSTRUCTION_MEMORY.vhd:61 
+ 
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5468.58 Meg
+
+Thu Jun 02 05:33:44 2022
+

@@ -1,0 +1,118 @@
+V3 63
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ALU_CONTROL.vhd 2022/05/22.03:29:37 P.20131013
+EN work/ALU_CONTROL 1653341751 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ALU_CONTROL.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU_CONTROL/Behavioral 1653341752 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ALU_CONTROL.vhd \
+      EN work/ALU_CONTROL 1653341751
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_ALU.vhd 2022/05/23.02:05:37 P.20131013
+EN work/BRANCH_ALU 1653341761 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_ALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/BRANCH_ALU/Behavioral 1653341762 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_ALU.vhd \
+      EN work/BRANCH_ALU 1653341761
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_AND.vhd 2022/05/22.03:29:38 P.20131013
+EN work/BRANCH_AND 1653341763 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_AND.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/BRANCH_AND/Behavioral 1653341764 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_AND.vhd \
+      EN work/BRANCH_AND 1653341763
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_SHIFT_LEFT.vhd 2022/05/23.02:19:35 P.20131013
+EN work/BRANCH_SHIFT_LEFT 1653341765 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_SHIFT_LEFT.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/BRANCH_SHIFT_LEFT/Behavioral 1653341766 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/BRANCH_SHIFT_LEFT.vhd \
+      EN work/BRANCH_SHIFT_LEFT 1653341765
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/CONTROLUNIT.vhd 2022/05/23.07:14:01 P.20131013
+EN work/CONTROLUNI 1653341755 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/CONTROLUNIT.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/CONTROLUNI/Behavioral 1653341756 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/CONTROLUNIT.vhd \
+      EN work/CONTROLUNI 1653341755
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd 2022/05/23.22:42:28 P.20131013
+EN work/INSTRUCTION_MEMORY 1653341747 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/INSTRUCTION_MEMORY/Behavioral 1653341748 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd \
+      EN work/INSTRUCTION_MEMORY 1653341747
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/JUMP_SHIFTLEFT.vhd 2022/05/22.03:29:38 P.20131013
+EN work/JUMP_SHIFTLEFT 1653341775 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/JUMP_SHIFTLEFT.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/JUMP_SHIFTLEFT/Behavioral 1653341776 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/JUMP_SHIFTLEFT.vhd \
+      EN work/JUMP_SHIFTLEFT 1653341775
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAINALU.vhd 2022/05/23.07:14:01 P.20131013
+EN work/MAINALU 1653341749 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAINALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/MAINALU/Behavioral 1653341750 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAINALU.vhd \
+      EN work/MAINALU 1653341749
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd 2022/05/22.23:55:56 P.20131013
+EN work/MAIN_MEMORY 1653341769 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MAIN_MEMORY/Behavioral 1653341770 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd \
+      EN work/MAIN_MEMORY 1653341769
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MIPS_SINGLE_CYCLE_PROCESSOR.vhd 2022/05/23.23:35:44 P.20131013
+EN work/MIPS_SINGLE_CYCLE_PROCESSOR 1653341777 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MIPS_SINGLE_CYCLE_PROCESSOR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MIPS_SINGLE_CYCLE_PROCESSOR/Behavioral 1653341778 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MIPS_SINGLE_CYCLE_PROCESSOR.vhd \
+      EN work/MIPS_SINGLE_CYCLE_PROCESSOR 1653341777 CP INSTRUCTION_MEMORY \
+      CP MAINALU CP ALU_CONTROL CP ORDINARY_MUX CP CONTROLUNI CP REGISTER_FILE \
+      CP REGISTER_MUX CP BRANCH_ALU CP BRANCH_AND CP BRANCH_SHIFT_LEFT \
+      CP ORDINARY_SIGNEXTEND CP MAIN_MEMORY CP PC_ADDER CP PC CP JUMP_SHIFTLEFT
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_MUX.vhd 2022/05/22.03:40:35 P.20131013
+EN work/ORDINARY_MUX 1653341753 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_MUX.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ORDINARY_MUX/Behavioral 1653341754 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_MUX.vhd \
+      EN work/ORDINARY_MUX 1653341753
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_SIGNEXTEND.vhd 2022/05/22.03:47:57 P.20131013
+EN work/ORDINARY_SIGNEXTEND 1653341767 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_SIGNEXTEND.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ORDINARY_SIGNEXTEND/Behavioral 1653341768 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/ORDINARY_SIGNEXTEND.vhd \
+      EN work/ORDINARY_SIGNEXTEND 1653341767
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC.vhd 2022/05/22.03:29:38 P.20131013
+EN work/PC 1653341773 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/PC/Behavioral 1653341774 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC.vhd \
+      EN work/PC 1653341773
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC_ADDER.vhd 2022/05/23.07:14:01 P.20131013
+EN work/PC_ADDER 1653341771 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC_ADDER.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/PC_ADDER/Behavioral 1653341772 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/PC_ADDER.vhd \
+      EN work/PC_ADDER 1653341771
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.vhd 2022/05/22.03:50:25 P.20131013
+EN work/REGISTER_FILE 1653341757 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/REGISTER_FILE/Behavioral 1653341758 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.vhd \
+      EN work/REGISTER_FILE 1653341757
+FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_MUX.vhd 2022/05/22.03:29:37 P.20131013
+EN work/REGISTER_MUX 1653341759 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_MUX.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/REGISTER_MUX/Behavioral 1653341760 \
+      FL C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_MUX.vhd \
+      EN work/REGISTER_MUX 1653341759

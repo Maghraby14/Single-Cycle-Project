@@ -1,0 +1,471 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Reading design: MAIN_MEMORY.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "MAIN_MEMORY.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "MAIN_MEMORY"
+Output Format                      : NGC
+Target Device                      : xc3sd1800a-4-fg676
+
+---- Source Options
+Top Module Name                    : MAIN_MEMORY
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 24
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" in Library work.
+Entity <MAIN_MEMORY> compiled.
+Entity <MAIN_MEMORY> (Architecture <Behavioral>) compiled.
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+Analyzing hierarchy for entity <MAIN_MEMORY> in library <work> (architecture <Behavioral>).
+
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <MAIN_MEMORY> in library <work> (Architecture <Behavioral>).
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 56: Index value(s) does not match array range, simulation mismatch.
+INFO:Xst:1607 - Contents of array <array_mem> may be accessed with an index that does not cover the full array size.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 57: Index value(s) does not match array range, simulation mismatch.
+INFO:Xst:1607 - Contents of array <array_mem> may be accessed with an index that does not cover the full array size.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 58: Index value(s) does not match array range, simulation mismatch.
+INFO:Xst:1607 - Contents of array <array_mem> may be accessed with an index that does not cover the full array size.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 59: Index value(s) does not match array range, simulation mismatch.
+INFO:Xst:1607 - Contents of array <array_mem> may be accessed with an index that does not cover the full array size.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 61: Index value(s) does not match array range, simulation mismatch.
+INFO:Xst:1607 - Contents of array <array_mem> may be accessed with an index that does not cover the full array size.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 62: Index value(s) does not match array range, simulation mismatch.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 63: Index value(s) does not match array range, simulation mismatch.
+WARNING:Xst:790 - "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd" line 64: Index value(s) does not match array range, simulation mismatch.
+Entity <MAIN_MEMORY> analyzed. Unit <MAIN_MEMORY> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Performing bidirectional port resolution...
+
+Synthesizing Unit <MAIN_MEMORY>.
+    Related source file is "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd".
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_0>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_1>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_2>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_3>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_4>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_5>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_6>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_10>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_7>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_11>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_8>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_12>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_9>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_13>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_14>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_20>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_15>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_21>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_16>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_22>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_17>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_23>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_18>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_24>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_19>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_30>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_25>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_31>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_26>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_27>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_28>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <READ_DATA_29>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Found 288-bit register for signal <array_mem>.
+    Found 32-bit adder for signal <array_mem$add0000> created at line 57.
+    Found 32-bit adder for signal <array_mem$add0001> created at line 58.
+    Found 32-bit adder for signal <array_mem$add0002> created at line 59.
+    Found 8-bit 36-to-1 multiplexer for signal <READ_DATA_15_8$varindex0000> created at line 58.
+    Found 8-bit 36-to-1 multiplexer for signal <READ_DATA_23_16$varindex0000> created at line 57.
+    Found 8-bit 36-to-1 multiplexer for signal <READ_DATA_31_24$varindex0000> created at line 56.
+    Found 8-bit 36-to-1 multiplexer for signal <READ_DATA_7_0$varindex0000> created at line 59.
+INFO:Xst:738 - HDL ADVISOR - 288 flip-flops were inferred for signal <array_mem>. You may be trying to describe a RAM in a way that is incompatible with block and distributed RAM resources available on Xilinx devices, or with a specific template that is not supported. Please review the Xilinx resources documentation and the XST user manual for coding guidelines. Taking advantage of RAM resources will lead to improved device usage and reduced synthesis time.
+    Summary:
+	inferred 288 D-type flip-flop(s).
+	inferred   3 Adder/Subtractor(s).
+	inferred  32 Multiplexer(s).
+Unit <MAIN_MEMORY> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 3
+ 32-bit adder                                          : 3
+# Registers                                            : 36
+ 8-bit register                                        : 36
+# Latches                                              : 32
+ 1-bit latch                                           : 32
+# Multiplexers                                         : 4
+ 8-bit 36-to-1 multiplexer                             : 4
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 3
+ 32-bit adder                                          : 3
+# Registers                                            : 288
+ Flip-Flops                                            : 288
+# Latches                                              : 32
+ 1-bit latch                                           : 32
+# Multiplexers                                         : 4
+ 8-bit 36-to-1 multiplexer                             : 4
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <MAIN_MEMORY> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block MAIN_MEMORY, actual ratio is 6.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 288
+ Flip-Flops                                            : 288
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : MAIN_MEMORY.ngr
+Top Level Output File Name         : MAIN_MEMORY
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : No
+
+Design Statistics
+# IOs                              : 99
+
+Cell Usage :
+# BELS                             : 2507
+#      GND                         : 1
+#      INV                         : 4
+#      LUT1                        : 91
+#      LUT2                        : 260
+#      LUT3                        : 615
+#      LUT4                        : 812
+#      MUXCY                       : 113
+#      MUXF5                       : 291
+#      MUXF6                       : 128
+#      MUXF7                       : 64
+#      MUXF8                       : 32
+#      VCC                         : 1
+#      XORCY                       : 95
+# FlipFlops/Latches                : 320
+#      FDE                         : 288
+#      LDE_1                       : 32
+# Clock Buffers                    : 2
+#      BUFG                        : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 98
+#      IBUF                        : 66
+#      OBUF                        : 32
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 3sd1800afg676-4 
+
+ Number of Slices:                      986  out of  16640     5%  
+ Number of Slice Flip Flops:            288  out of  33280     0%  
+ Number of 4 input LUTs:               1782  out of  33280     5%  
+ Number of IOs:                          99
+ Number of bonded IOBs:                  99  out of    519    19%  
+    IOB Flip Flops:                      32
+ Number of GCLKs:                         2  out of     24     8%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+clk                                | BUFGP                  | 288   |
+memwrite                           | IBUF+BUFG              | 32    |
+-----------------------------------+------------------------+-------+
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -4
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: 15.232ns
+   Maximum output required time after clock: 5.668ns
+   Maximum combinational path delay: No path found
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'clk'
+  Total number of paths / destination ports: 1041120 / 576
+-------------------------------------------------------------------------
+Offset:              15.232ns (Levels of Logic = 38)
+  Source:            ADDRESS<2> (PAD)
+  Destination:       array_mem_1_0 (FF)
+  Destination Clock: clk rising
+
+  Data Path: ADDRESS<2> to array_mem_1_0
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O           136   0.849   1.438  ADDRESS_2_IBUF (ADDRESS_2_IBUF)
+     LUT1:I0->O            1   0.648   0.000  Madd_array_mem_add0001_cy<2>_rt (Madd_array_mem_add0001_cy<2>_rt)
+     MUXCY:S->O            1   0.632   0.000  Madd_array_mem_add0001_cy<2> (Madd_array_mem_add0001_cy<2>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<3> (Madd_array_mem_add0001_cy<3>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<4> (Madd_array_mem_add0001_cy<4>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<5> (Madd_array_mem_add0001_cy<5>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<6> (Madd_array_mem_add0001_cy<6>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<7> (Madd_array_mem_add0001_cy<7>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<8> (Madd_array_mem_add0001_cy<8>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<9> (Madd_array_mem_add0001_cy<9>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<10> (Madd_array_mem_add0001_cy<10>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<11> (Madd_array_mem_add0001_cy<11>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<12> (Madd_array_mem_add0001_cy<12>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<13> (Madd_array_mem_add0001_cy<13>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<14> (Madd_array_mem_add0001_cy<14>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<15> (Madd_array_mem_add0001_cy<15>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<16> (Madd_array_mem_add0001_cy<16>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<17> (Madd_array_mem_add0001_cy<17>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<18> (Madd_array_mem_add0001_cy<18>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<19> (Madd_array_mem_add0001_cy<19>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<20> (Madd_array_mem_add0001_cy<20>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<21> (Madd_array_mem_add0001_cy<21>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<22> (Madd_array_mem_add0001_cy<22>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<23> (Madd_array_mem_add0001_cy<23>)
+     MUXCY:CI->O           1   0.065   0.000  Madd_array_mem_add0001_cy<24> (Madd_array_mem_add0001_cy<24>)
+     XORCY:CI->O           1   0.844   0.563  Madd_array_mem_add0001_xor<25> (array_mem_add0001<25>)
+     LUT2:I0->O            1   0.648   0.000  array_mem_0_cmp_eq00011_wg_lut<0> (array_mem_0_cmp_eq00011_wg_lut<0>)
+     MUXCY:S->O            1   0.632   0.000  array_mem_0_cmp_eq00011_wg_cy<0> (array_mem_0_cmp_eq00011_wg_cy<0>)
+     MUXCY:CI->O           1   0.065   0.000  array_mem_0_cmp_eq00011_wg_cy<1> (array_mem_0_cmp_eq00011_wg_cy<1>)
+     MUXCY:CI->O           1   0.065   0.000  array_mem_0_cmp_eq00011_wg_cy<2> (array_mem_0_cmp_eq00011_wg_cy<2>)
+     MUXCY:CI->O           1   0.065   0.000  array_mem_0_cmp_eq00011_wg_cy<3> (array_mem_0_cmp_eq00011_wg_cy<3>)
+     MUXCY:CI->O           1   0.065   0.000  array_mem_0_cmp_eq00011_wg_cy<4> (array_mem_0_cmp_eq00011_wg_cy<4>)
+     MUXCY:CI->O           1   0.065   0.000  array_mem_0_cmp_eq00011_wg_cy<5> (array_mem_0_cmp_eq00011_wg_cy<5>)
+     MUXCY:CI->O           5   0.269   0.776  array_mem_0_cmp_eq00011_wg_cy<6> (N37)
+     LUT4:I0->O            8   0.648   0.900  array_mem_17_cmp_eq000111 (N187)
+     LUT4:I0->O           17   0.648   1.194  array_mem_1_cmp_eq00011 (array_mem_1_cmp_eq0001)
+     LUT4:I0->O            1   0.648   0.423  array_mem_1_and0000_SW1 (N919)
+     LUT4:I3->O            8   0.648   0.757  array_mem_1_and0000 (array_mem_1_and0000)
+     FDE:CE                    0.312          array_mem_1_0
+    ----------------------------------------
+    Total                     15.232ns (9.181ns logic, 6.051ns route)
+                                       (60.3% logic, 39.7% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'memwrite'
+  Total number of paths / destination ports: 2804 / 64
+-------------------------------------------------------------------------
+Offset:              9.007ns (Levels of Logic = 10)
+  Source:            ADDRESS<1> (PAD)
+  Destination:       READ_DATA_19 (LATCH)
+  Destination Clock: memwrite rising
+
+  Data Path: ADDRESS<1> to READ_DATA_19
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            32   0.849   1.405  ADDRESS_1_IBUF (ADDRESS_1_IBUF)
+     LUT1:I0->O            1   0.648   0.000  Madd_array_mem_add0000_cy<1>_rt (Madd_array_mem_add0000_cy<1>_rt)
+     MUXCY:S->O            1   0.632   0.000  Madd_array_mem_add0000_cy<1> (Madd_array_mem_add0000_cy<1>)
+     XORCY:CI->O         133   0.844   1.437  Madd_array_mem_add0000_xor<2> (array_mem_add0000<2>)
+     LUT3:I0->O            1   0.648   0.000  Mmux_READ_DATA_23_16_varindex0000_9 (Mmux_READ_DATA_23_16_varindex0000_9)
+     MUXF5:I1->O           1   0.276   0.000  Mmux_READ_DATA_23_16_varindex0000_8_f5 (Mmux_READ_DATA_23_16_varindex0000_8_f5)
+     MUXF6:I1->O           1   0.291   0.000  Mmux_READ_DATA_23_16_varindex0000_7_f6 (Mmux_READ_DATA_23_16_varindex0000_7_f6)
+     MUXF7:I1->O           1   0.291   0.000  Mmux_READ_DATA_23_16_varindex0000_6_f7 (Mmux_READ_DATA_23_16_varindex0000_6_f7)
+     MUXF8:I1->O           1   0.291   0.500  Mmux_READ_DATA_23_16_varindex0000_5_f8 (Mmux_READ_DATA_23_16_varindex0000_5_f8)
+     LUT3:I1->O            1   0.643   0.000  array_mem_add0000<5>1 (READ_DATA_23_16_varindex0000<0>)
+     LDE_1:D                   0.252          READ_DATA_16
+    ----------------------------------------
+    Total                      9.007ns (5.665ns logic, 3.342ns route)
+                                       (62.9% logic, 37.1% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'memwrite'
+  Total number of paths / destination ports: 32 / 32
+-------------------------------------------------------------------------
+Offset:              5.668ns (Levels of Logic = 1)
+  Source:            READ_DATA_31 (LATCH)
+  Destination:       READ_DATA<31> (PAD)
+  Source Clock:      memwrite rising
+
+  Data Path: READ_DATA_31 to READ_DATA<31>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LDE_1:G->Q            1   0.728   0.420  READ_DATA_31 (READ_DATA_31)
+     OBUF:I->O                 4.520          READ_DATA_31_OBUF (READ_DATA<31>)
+    ----------------------------------------
+    Total                      5.668ns (5.248ns logic, 0.420ns route)
+                                       (92.6% logic, 7.4% route)
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 13.00 secs
+Total CPU time to Xst completion: 12.90 secs
+ 
+--> 
+
+Total memory usage is 4547840 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   40 (   0 filtered)
+Number of infos    :    6 (   0 filtered)
+

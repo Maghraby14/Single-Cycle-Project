@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.xst" -ofn "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.syr" 
+xst -intstyle ise -ifn "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.xst" -ofn "C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/REGISTER_FILE.syr" 

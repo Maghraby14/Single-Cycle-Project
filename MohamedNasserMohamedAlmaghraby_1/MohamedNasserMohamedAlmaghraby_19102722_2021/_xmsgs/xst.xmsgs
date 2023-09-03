@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">64</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">65</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">66</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/INSTRUCTION_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">67</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">56</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">57</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">58</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">59</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">62</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="1607" delta="old" >Contents of array &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; may be accessed with an index that does not cover the full array size.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">63</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">64</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="790" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/AAST/Downloads/DE/MohamedNasserMohamedAlmaghraby_19102722_2021/MAIN_MEMORY.vhd</arg>&quot; line <arg fmt="%d" index="2">65</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="1781" delta="old" >Signal &lt;<arg fmt="%s" index="1">array_mem</arg>&gt; is used but never assigned. Tied to default value.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">32</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">RESULT</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">FUNCTIONN&lt;5:4&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">4</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">ALUOP</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Branch</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">2</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Aluop</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Memwrite</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Memread</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Memtoreg</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Jump</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">RegDst</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">Regwrite</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">ALUsrc</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="old" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">SIGN_EXTEND_OUT&lt;31:30&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_0</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_1</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_2</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_3</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_4</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_5</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_6</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_10</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_7</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_11</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_8</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_12</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_9</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_13</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_14</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_20</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_15</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_21</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_16</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_22</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_17</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_23</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_18</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_24</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_19</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_30</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_25</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_31</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_26</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_27</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_28</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">READ_DATA_29</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="738" delta="old" >HDL ADVISOR - <arg fmt="%d" index="1">288</arg> flip-flops were inferred for signal &lt;<arg fmt="%s" index="2">array_mem</arg>&gt;. You may be trying to describe a RAM in a way that is incompatible with block and distributed RAM resources available on Xilinx devices, or with a specific template that is not supported. Please review the Xilinx resources documentation and the XST user manual for coding guidelines. Taking advantage of RAM resources will lead to improved device usage and reduced synthesis time.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">INSTRUCTION</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">MAIN_ALU</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">MAIN_ALU_CONTROL</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">ALU_MUX</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">CONTROL_UNIT</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">Reegister_File</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">REGISTERS_MUX</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">BRANCH_ALUU</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">BRANCH_And_Gate</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">BRANCH_SHIFT_LEFTT</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">BRANCH_SIGN_EXTEND</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">BRANCH_MUX</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">MM</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">MEMORY_MUX</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">JUMP_MUX</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">Adder</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">PC_OBJECT</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">Shift_Left_Jump_Object</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_array_reg</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_array_reg_ren</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">ALUOP_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">ALU_CONTROL</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren34</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren33</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren37</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren35</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren36</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren40</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren38</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren39</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren41</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren42</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren43</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren44</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren47</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren45</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren46</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren50</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren48</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren49</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren53</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren51</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren52</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren54</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren55</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren56</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren57</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren60</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren58</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren59</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren63</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren61</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren62</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg_ren64</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg33</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg32</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg36</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg34</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg35</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg39</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg37</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg38</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg42</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg40</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg41</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg45</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg43</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg44</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg46</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg47</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg48</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg49</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg52</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg50</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg51</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg55</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg53</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg54</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg58</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg56</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg57</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg59</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg60</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg61</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg62</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg63</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Reegister_File/Mram_array_reg64</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/READ_DATA_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_11_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_10_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_35_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_34_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_29_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_33_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_32_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_28_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_27_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_26_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_9_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_31_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_30_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_25_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_24_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_19_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_8_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_7_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_23_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_18_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_6_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_22_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_17_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_21_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_16_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_5_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_4_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_20_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_3_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_14_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_15_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_2_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_13_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_12_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_0_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MM/array_mem_1_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/OUTPUT_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">PC_OBJECT/temp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU/RESULT_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU_CONTROL/ALUOP_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU_CONTROL/ALUOP_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MAIN_ALU_CONTROL/ALUOP_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Aluop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Aluop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Branch</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Memwrite</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Memread</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Memtoreg</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Jump</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/RegDst</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/Regwrite</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">CONTROL_UNIT/ALUsrc</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">MIPS_SINGLE_CYCLE_PROCESSOR</arg>&gt;.
+</msg>
+
+</messages>
+
